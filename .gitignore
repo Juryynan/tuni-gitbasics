@@ -1,8 +1,8 @@
 #ignore .in
-.in
+*.in
 
 #ignore .out
-.out
+*.out
 
 #ignore .pyc
-.pyc
+*.pyc
